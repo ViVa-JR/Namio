@@ -61,14 +61,6 @@ _Coming soon_
 
 ---
 
-## 🌍 Languages
-
-The app is available in:
-- 🇬🇧 English
-- 🇨🇿 Czech
-
----
-
 ## 💬 Support
 
 Have questions or feedback? Feel free to [open an issue](../../issues).
@@ -145,14 +137,6 @@ Your privacy is important to us. We collect minimal data necessary for the app t
 ## 📸 Screenshoty
 
 _Již brzy_
-
----
-
-## 🌍 Jazyky
-
-Aplikace je dostupná v:
-- 🇬🇧 Angličtině
-- 🇨🇿 Češtině
 
 ---
 
