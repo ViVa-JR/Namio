@@ -15,12 +15,9 @@
 
 ### Android
 - **[Google Play Store](#)** - _Coming soon_
-- **[Direct Download (APK)](../../releases)** - Download from Releases
 
 ### iOS
 _Coming soon_
-<!-->- **[App Store](#)** - _Coming soon_
-- **TestFlight** - _Coming soon_<!-->
 
 ---
 
@@ -57,7 +54,7 @@ _Coming soon_
 
 ## 📸 Screenshots
 
-_Coming soon_
+<img src="assets/banner.png" alt="Namio Banner" />
 
 ---
 
@@ -95,11 +92,9 @@ Your privacy is important to us. We collect minimal data necessary for the app t
 
 ### Android
 - **[Google Play Store](#)** - _Již brzy_
-- **[Přímé stažení (APK)](../../releases)** - Stáhněte z Releases
 
 ### iOS
-- **[App Store](#)** - _Již brzy_
-- **TestFlight** - _Již brzy_
+_Již brzy_
 
 ---
 
@@ -136,7 +131,7 @@ Your privacy is important to us. We collect minimal data necessary for the app t
 
 ## 📸 Screenshoty
 
-_Již brzy_
+<img src="assets/banner.png" alt="Namio Banner" />
 
 ---
 
