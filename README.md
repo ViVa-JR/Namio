@@ -68,6 +68,8 @@ Have questions or feedback? Feel free to [open an issue](../../issues).
 
 Your privacy is important to us. We collect minimal data necessary for the app to function.
 
+[Read our full Privacy Policy](PRIVACY_POLICY.md)
+
 ---
 
 <br>
@@ -144,6 +146,8 @@ Máte dotazy nebo zpětnou vazbu? [Otevřete issue](../../issues).
 ## 📄 Soukromí a podmínky
 
 Vaše soukromí je pro nás důležité. Sbíráme pouze minimální data potřebná pro fungování aplikace.
+
+[Přečtěte si kompletní Zásady ochrany osobních údajů](PRIVACY_POLICY.md)
 
 ---
 

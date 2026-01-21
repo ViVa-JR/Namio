@@ -17,7 +17,7 @@ Tyto Zásady ochrany osobních údajů popisují, jakým způsobem aplikace Nami
 - **Identifikátory zařízení**: Anonymní ID zařízení pro technické účely
 
 ### 1.3 Informace, které NESHROMAŽĎUJEME
-- E-mailové adresy
+- E-mailové adresy (E-mailové adresy zpracováváme pouze pro účely vyřízení vašich dotazů a technické podpory)
 - Telefonní čísla
 - Přesnou polohu
 - Fotografie nebo média ze zařízení
